@@ -3,7 +3,7 @@
 
 
 #- Dependências 
- °Node.js
+ <br>Node.js
  °npm
  °express 
  °o banco de dados ainda não está integrado ao código.
