@@ -12,6 +12,7 @@ app.post('/usuarios', (req, res) => {
   res.status(201).send('Usuário adicionado com sucesso!');
 });
 
+
 //2-consulta os usuários cadastrados
 
 app.get('/usuarios', (req, res) => {
